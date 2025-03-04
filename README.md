@@ -1,6 +1,6 @@
 ![alt text](PythonLogo.png)
 
-# Python Projects
+# Neural Network Projects
 Here, I am describing some of the python projects that I have done. The projects have been performed inspired by the courses that I took or my personal intersts. 
 Four projects are included from which three of them have been completed and I am still working on one of them. 
 
